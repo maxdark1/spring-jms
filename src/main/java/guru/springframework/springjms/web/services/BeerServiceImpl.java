@@ -9,6 +9,7 @@ import java.util.UUID;
 public class BeerServiceImpl implements BeerService {
     @Override
     public BeerDto getBeerById(UUID beerId) {
+        //Patron de diseño Builder
         return BeerDto.builder().id(UUID.randomUUID())
                 .beerName("Galaxy Cat")
                 .beetStyle("Pale Ale")

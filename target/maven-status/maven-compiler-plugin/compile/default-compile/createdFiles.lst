@@ -1,0 +1,6 @@
+guru\springframework\springjms\SpringJmsApplication.class
+guru\springframework\springjms\web\model\BeerDto$BeerDtoBuilder.class
+guru\springframework\springjms\web\model\BeerDto.class
+guru\springframework\springjms\web\services\BeerService.class
+guru\springframework\springjms\web\services\BeerServiceImpl.class
+guru\springframework\springjms\web\controller\BeerController.class
